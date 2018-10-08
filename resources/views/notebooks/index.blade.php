@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container text-center">
-    <h1 class="pull-xs-left">
-        Your Notebooks
-    </h1>
+    {{--<h1 class="pull-xs-left">--}}
+        {{--Your Notebooks--}}
+    {{--</h1>--}}
 
     @role('superuser')
     <div class="pull-xs-right">
